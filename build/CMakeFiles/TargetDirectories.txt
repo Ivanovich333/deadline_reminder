@@ -1,0 +1,3 @@
+/home/vboxuser/deadline_reminder/build/CMakeFiles/deadline_reminder.dir
+/home/vboxuser/deadline_reminder/build/CMakeFiles/edit_cache.dir
+/home/vboxuser/deadline_reminder/build/CMakeFiles/rebuild_cache.dir
